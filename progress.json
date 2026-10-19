@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-16T06:41:51.217Z",
+  "generated_at": "2026-10-19T02:38:49.466Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -13,6 +13,19 @@
       "last_pushed_at": "2026-10-16T06:41:50.679Z",
       "language": "python",
       "lines": 14
+    },
+    "problem:1136": {
+      "kind": "problem",
+      "id": "1136",
+      "title": "Add a Per-Group Average Column with GroupBy Transform",
+      "difficulty": "easy",
+      "category": "Pandas",
+      "url": "https://www.deep-ml.com/problems/1136",
+      "path": "problems/1136-add-a-per-group-average-column-with-groupby-transform",
+      "first_solved_at": "2026-10-19T02:38:48.934Z",
+      "last_pushed_at": "2026-10-19T02:38:48.934Z",
+      "language": "python",
+      "lines": 11
     }
   }
 }
