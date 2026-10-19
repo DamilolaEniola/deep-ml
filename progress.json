@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T02:38:49.466Z",
+  "generated_at": "2026-10-19T02:39:30.010Z",
   "items": {
     "problem:14": {
       "kind": "problem",
@@ -23,7 +23,7 @@
       "url": "https://www.deep-ml.com/problems/1136",
       "path": "problems/1136-add-a-per-group-average-column-with-groupby-transform",
       "first_solved_at": "2026-10-19T02:38:48.934Z",
-      "last_pushed_at": "2026-10-19T02:38:48.934Z",
+      "last_pushed_at": "2026-10-19T02:39:29.505Z",
       "language": "python",
       "lines": 11
     }
